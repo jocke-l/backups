@@ -1,2 +1,3 @@
 build/
-airootfs/root/keys/
+*.obscura
+airootfs/root/.ssh/config.d/
